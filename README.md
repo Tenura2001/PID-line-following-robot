@@ -34,5 +34,5 @@ The robot is built using:
 ## Setup and Installation 🚀
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/fast-line-following-car.git
-   cd fast-line-following-car
+   git clone https://github.com/Tenura2001/PID-line-following-robot.git
+   cd PID-line-following-robot
