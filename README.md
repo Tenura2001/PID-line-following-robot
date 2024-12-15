@@ -19,7 +19,7 @@ The robot is built using:
 - **Microcontroller:** ESP32  
 - **Motors:** 500 RPM DC gear motors  
 - **Motor Driver:** TB6612FNG  
-- **Sensors:** Line-tracking array  
+- **Sensors:** Custom Built Line-tracking IR array  
 - **Battery:** 7.4V LiPo battery  
 
 ---
